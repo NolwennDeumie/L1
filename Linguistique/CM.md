@@ -39,6 +39,7 @@ The | boy is scared of dogs.
     ^ axe paradigmatique : axe des commutations  
 
 Groupe de mots : **syntagme**
+
 Ensemble de mots pouvant occuper la même place et remplir la même fonction : **paradigme**
 
 Axe syntagmatique : manipulations plus nombreuses et variées, étoffements ou expansions d'un élément de la phrase.
@@ -48,6 +49,6 @@ Transformation passif-actif/affirmatif-interrogatif
 ### Quelles unités pour l'analyse syntaxique ?
 
 - La phrase : unité complexe et englobante dont la plus petite partie est le mot.
-Un mot seul ? Non, groupe de mots ou syntagme.
-Groupe de mots ou syntagme seul ? Non, servent à constituer des propositions.
-Proposition seule ? Oui, phrase = 1 proposition. Non, phrase = plusieurs propositions
+    - Un mot seul ? Non, groupe de mots ou syntagme.
+    - Groupe de mots ou syntagme seul ? Non, servent à constituer des propositions.
+    - Proposition seule ? Oui, phrase = 1 proposition. Non, phrase = plusieurs propositions
