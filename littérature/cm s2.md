@@ -14,3 +14,4 @@ Life on the frontier was tough, but the frontier had to represent a number of id
 - a symbol of freedom. It symbolized the freedom of unlimited space, fenceless planes. ?? invented barbed wire in 1874.
 - a symbol of purity and innocence. The purity of natural land uncorrupted by the evils of culture and civilization (J.J.Rousseau (philosophe qui a écrit sur l'opposition nature/culture): The frontier stands for the great natural forces that clear the American land from the seeds of capitalism, money and indrustialization). It is to notice that the pilgrim fathers illustrated this myth which is one of the founding myths of the American nation. This founding myth can be found in their narratives. 
 - a symbol of ???, symbolized mainly by James Fenimore Cooper's novels *The pioneers* (1823), *The last of the Mohicans* (1826), *The prairie* (1827), *The pathfinder* (1840), *The dear slave* (1841).
+
